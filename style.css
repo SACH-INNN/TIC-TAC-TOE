@@ -1,6 +1,6 @@
 body{
   background-color: #559CAD;
-  text-align: centre;
+  text-align: center;
   
 }
 .grid{
@@ -10,5 +10,11 @@ body{
   background-color: #C1B2AB;
   font-size:100px;
   border-radius: 4px;
+  
+}
+.game{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   
 }
