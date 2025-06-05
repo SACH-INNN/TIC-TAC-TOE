@@ -3,8 +3,10 @@ body{
   text-align: center;
   
 }
+
 .container{
   height: 70vh;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -13,7 +15,7 @@ body{
   height: 18vmin;
   color: #92374D;
   background-color: #C1B2AB;
-  font-size:18vmin;
+  font-size:16vmin;
   border-radius: 4px;
 }
 .game{
