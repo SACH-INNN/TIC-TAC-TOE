@@ -3,16 +3,22 @@ body{
   text-align: center;
   
 }
+.container{
+  height: 70vh;
+}
 .grid{
-  width: 100px;
-  height: 100px;
+  width: 18vmin;
+  height: 18vmin;
   color: #92374D;
   background-color: #C1B2AB;
   font-size:100px;
   border-radius: 4px;
+  justify-content: center;
+
   
 }
 .game{
+  height:60vmin;
   display: flex;
   justify-content: center;
   align-items: center;
